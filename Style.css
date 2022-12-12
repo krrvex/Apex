@@ -1,0 +1,35 @@
+body {
+    background-image:repeating-radial-gradient(purple, black, blue);
+  }
+  h1{
+  color:red;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  text-shadow:-2px 2px whitesmoke ;
+  }
+  h2{
+  color:red;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  text-shadow:-2px 2px whitesmoke;
+  }
+  p{
+  color:lightgray;
+  font-family:inherit;
+  }
+  li{
+    color:lightgray;
+  }
+  a{
+    color:whitesmoke;
+    text-shadow:red;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: black;
+  }
+  
+  
+
